@@ -41,9 +41,9 @@ class HomeUi extends StatelessWidget {
             ),
             Text(
               'Created by Sutidaa_05 SAU2026',
-              style: GoogleFonts.dancingScript(
+              style: GoogleFonts.itim(
                 fontSize: 18.0,
-                color: Colors.green[800],
+                color: Colors.red[800],
               ),
             ),
             const SizedBox(height: 60.0),
